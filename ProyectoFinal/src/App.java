@@ -3,5 +3,7 @@ public class App {
         System.out.println("Hello Team GitHub");
 
         int edad = 18;
+
+        String nombre = "Juan";
     }
 }
