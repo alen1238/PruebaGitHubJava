@@ -10,4 +10,8 @@ public class Lectora {
     public Scanner getLector(){
         return lector;
     }
+
+    public void setLector(){
+        System.out.println("agregado el setter y getter del lector");
+    }
 }
